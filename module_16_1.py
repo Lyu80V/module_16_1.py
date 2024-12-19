@@ -1,4 +1,4 @@
-# uvicorn module_16_1.py:app --reload
+
 import uvicorn
 from fastapi import FastAPI
 
